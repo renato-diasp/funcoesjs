@@ -1,10 +1,8 @@
 // 1
-// const numero = prompt(parseFloat('Digite um número: '))
-
-// function imprimeNumero (numero){
+// const numero = parseFloat(prompt('Digite um número: '))
+// const imprimeNumero =  numero => {
 //   alert(numero)
 // }
-
 // imprimeNumero(numero)
 
 // 2
@@ -48,12 +46,11 @@
 
 // 5
 // const numero = parseInt(prompt('Digite um numero: '))
-// function calculaQuadrado (numero){
-//   let quadrado = (numero * numero)
-//   return quadrado
-// }
 
-// alert(`O quadrado do número digitado é ${calculaQuadrado(numero)}`)
+// const calculaQuadrado =  numero => {let quadrado = (numero * numero)
+//   return quadrado
+// }  
+//   alert(`O quadrado do número digitado é ${calculaQuadrado(numero)}`)
 
 // 6
 // let nota1 = parseFloat(prompt('Por favor, digite o primeira nota: '))
